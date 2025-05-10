@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:10/5/25c
+## Date:10/5/25
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -77,10 +77,17 @@ window.open(src, "_blank");
 ```
 
 ## OUTPUT:
-![alt text](Buda.webp)
-![alt text](lavender.jpg)
-![alt text](paris.jpg)
-![alt text](porsche.jpg)
-![alt text](seafood_spaghetti.jpg)
+
+![Screenshot 2025-05-10 185013](https://github.com/user-attachments/assets/33aea859-082a-4f9a-b761-cbf44997fb26)
+
+![lavender](https://github.com/user-attachments/assets/47726f90-dcd9-4322-a19a-b461f3a47d4e)
+
+![paris](https://github.com/user-attachments/assets/3af76821-87be-4592-a723-868ca3898fd1)
+
+![porsche](https://github.com/user-attachments/assets/44a9917f-4a07-43a6-823b-af23f417a74a)
+
+![seafood_spaghetti](https://github.com/user-attachments/assets/d357aeaa-ea49-4313-abfd-595c5d8bdafd)
+
+
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
